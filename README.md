@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaveAna
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS, JavaScript
-- 📫 How to reach me: https://t.me/save_ana
+- 📫 How to reach me: i.wasber@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
